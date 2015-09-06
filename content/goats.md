@@ -2,7 +2,8 @@
 date = "2015-09-05T12:40:08-07:00"
 draft = false
 title = "Goats"
-
+type = "page"
+tags = ["goats","John","Peter"]
 +++
 
 Peter is a white goat.

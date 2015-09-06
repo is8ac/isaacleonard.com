@@ -2,13 +2,14 @@
 date = "2015-09-05T13:59:16-07:00"
 draft = true
 title = "Bookshelf"
-
+tags = ["books","links"]
+type = "page"
 +++
 
 I read a great many books
 
 I have discovered many of my favorite books from other people posting their favorite books.
-Here I continue the process, listing some books that I have enjoyed.
+Here I continue the process listing some books that I have enjoyed.
 
 ### [Harry Potter and the Methods of Rationality](http://hpmor.com)
 
@@ -21,6 +22,7 @@ If you still don't like it after chapter 10 give up.
 ### [Worm](http://parahumans.wordpress.com/)
 
 by: Wildbow
+
 *Worm* is exceptionally long, ~1,750,000 word, and can be quite violent.
 That said, it is *excellent*, and I at least, have enjoyed it very much.
 
@@ -49,6 +51,12 @@ And,
 >Kyouko coughed on her noodles, spraying food in front of her in a rather ugly fashion, before the food in question automatically deleted itself, eliminating the spray, plate of chilled noodles, and whatever was in Kyouko's illusory windpipe. A moment later the plate rematerialized in front of her, with a fresh set of noodles.
 
 ### [Ra](http://qntm.org/ra)
+
+by: Sam Hughes
+
+>Magic is real.
+
+>Discovered in the 1970s, magic is now a bona fide field of engineering. There's magic in heavy industry and magic in your home. It's what's next after electricity.
 
 ### [Luminosity](http://luminous.elcenia.com/)
 

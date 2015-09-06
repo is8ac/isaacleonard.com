@@ -2,7 +2,7 @@
 date = "2015-09-05T11:12:38-07:00"
 draft = true
 title = "About"
-
+type = "page"
 +++
 ## The website of Isaac Leonard v 2.0
 

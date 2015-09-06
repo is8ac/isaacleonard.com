@@ -2,7 +2,8 @@
 date = "2015-09-05T12:20:45-07:00"
 draft = true
 title = "Contact"
-
+type = "page"
+tags = ["Contact","PGP","Email","Gmail"]
 +++
 
 Preferd Email address: [isaac@isaacleonard.com](mailto:isaac@isaacleonard.com)
