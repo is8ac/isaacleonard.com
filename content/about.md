@@ -1,6 +1,7 @@
 +++
+Description = "About the website isaacleonard.com"
 date = "2015-09-05T11:12:38-07:00"
-draft = true
+draft = false
 title = "About"
 type = "page"
 +++

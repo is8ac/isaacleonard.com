@@ -1,6 +1,6 @@
 +++
 date = "2015-09-05T13:59:16-07:00"
-draft = true
+draft = false
 title = "Bookshelf"
 tags = ["books","links"]
 type = "page"

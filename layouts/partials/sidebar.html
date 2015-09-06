@@ -1,0 +1,20 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
+      <p class="lead">A hacked version of <a href="http://twitter.com/mdo">@mdo</a>s hyde.
+      </p>
+    </div>
+
+    <ul class="sidebar-nav">
+      <li><a href="/"><img src="/logo.gif" alt="logo"></a></li>
+      <li><a href="/bookshelf">Books</a></li>
+      <li><a href="/virtual">Virtual Creations</a></li>
+      <li><a href="/real">Physical Creations</a></li>
+      <li><a href="/about">About</a></li>
+      <li><a href="/goats">Goats</a></li>
+    </ul>
+
+    <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}. All rights reserved. {{end}}</p>
+  </div>
+</div>
