@@ -1,3 +1,4 @@
+<!--page single-->
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 	{{ partial "head.html" . }}
@@ -7,10 +8,9 @@
 		<div class="content container">
 			<div class="post">
 			 	<h1>{{ .Title }}</h1>
-			  <span class="post-date">Last updated on: {{ .Date.Format "Mon, Jan 2, 2006" }}</span>
 			      {{ .Content }}
 			</div>
-
+			<span class="post-date">Last updated on: {{ .Date.Format "Mon, Jan 2, 2006" }}</span>
 		</div>
 		{{ partial "footer.html" . }}
   </body>

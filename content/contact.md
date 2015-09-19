@@ -6,10 +6,16 @@ type = "page"
 tags = ["Contact","PGP","Email","Gmail"]
 +++
 
-Preferd Email address: [isaac@isaacleonard.com](mailto:isaac@isaacleonard.com)
+Preferd Email address: [isaac@isaacleonard.com](mailto:isaac@isaacleonard.com).
 You can share Google drive files with this address.
+
 For OneDrive use: [isaacl@live.com](mailto:isaacl@live.com).
-You can message me on [Google+](http://www.google.com/+IsaacLeonard).
+
+[Google+](http://www.google.com/+IsaacLeonard)
+
+[Github](https://github.com/is8ac)
+
+I do not use Facebook, Twitter, or others not mentioned here.
 
 ## PGP
 My PGP pub key is [here](/pgp.asc).

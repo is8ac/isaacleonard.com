@@ -14,7 +14,7 @@ They both live together in a little house in the big woods and eat things.
 
 ### Things they eat:
 
-- Hazel aka filbert
+- Hazel (filbert)
 - Fir needles
 - Grass
 - Maple
