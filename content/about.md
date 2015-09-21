@@ -9,10 +9,10 @@ type = "page"
 This page is contains information about the person Isaac Leonard.
 For information about this website see [/meta](/meta)
 
-I live in Oregon with my two goats and study Haskell, Python, R, and HTML.
+I live in Oregon with my two goats, and study Haskell, Python, R, HTML and Go.
 
 Additionally, I make [pretty pictures](https://github.com/is8ac/network-gen)
-with R and [wireshark](https://www.wireshark.org/)
+with R and [wireshark](https://www.wireshark.org/).
 
 I spent a year working at the University of Oregon researching the effects
 of *dnmt1* and background on *mef2ca<sup>-</sup>* zebra fish craniofacial cartilage development.

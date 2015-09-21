@@ -9,10 +9,10 @@ type = "page"
 +++
 
 
-## The website of Isaac Leonard v 2.0
+## The website of Isaac Leonard v. 2.0
 
-The first version of this site was done in hand coded HTML, which, while instructive, was a somewhat tedious.
+The first version of this site was done in hand coded HTML, which, while instructive, was somewhat tedious.
 
-Now I am using [Hugo](http://gohugo.io/) generate HTML from markdown + templates.
+Now I am using [Hugo](http://gohugo.io/) to generate HTML from Markdown + templates.
 
-The analog report from the S3 logs is available [here](/meta/analog.html).
+The Analog report from the S3 logs is available [here](/meta/analog.html).

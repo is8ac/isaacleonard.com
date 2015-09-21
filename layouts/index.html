@@ -3,13 +3,17 @@
 
 {{ partial "sidebar.html" . }}
 
-  <div>
-    <p>
-      This is my new site created with hugo.
-      The old hand coded version can be found <a href="https://s3.amazonaws.com/old.isaacleonard.com/">on S3</a>.
-    </p>
-  </div>
+
     <div class="content container">
+      <div>
+          <h3>This is my new site created with Hugo.</h3>
+          <p>
+            Not all the content has been converted to Markdown or edited to my satisfaction.
+          </p>
+          <p>
+            The old hand coded version can be found <a href="https://s3.amazonaws.com/old.isaacleonard.com/">on S3</a>.
+        </p>
+      </div>
       <div class="posts">
 
       {{ range .Data.Pages }}

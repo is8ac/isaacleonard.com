@@ -21,15 +21,15 @@ If you still don't like it after chapter 10 give up.
 
 ### [Worm](http://parahumans.wordpress.com/)
 
-by: Wildbow
+by Wildbow
 
-*Worm* is exceptionally long, ~1,750,000 word, and can be quite violent.
+*Worm* is exceptionally long, ~1,750,000 words, and can be quite violent.
 That said, it is *excellent*, and I at least, have enjoyed it very much.
 
 
 ### [To The Stars](https://www.fanfiction.net/s/7406866/1/To-the-Stars)
 
-By: Hieronym
+by Hieronym
 
 A hard SF fan fiction of
 [Puella Magi Madoka Magica](https://en.wikipedia.org/wiki/Puella_Magi_Madoka_Magica),
@@ -52,7 +52,7 @@ And,
 
 ### [Ra](http://qntm.org/ra)
 
-by: Sam Hughes
+by Sam Hughes
 
 >Magic is real.
 
@@ -68,12 +68,12 @@ by Eliezer Yudkowsky
 
 Which is better, to blow up the solar system, killing 95% of all humans, or for all humans to finally be truly happy?
 
-### Kim by Rudyard Kipling</h3></li>
+### [Kim](http://www.gutenberg.org/ebooks/2226)
+by Rudyard Kipling
 
 
-[Friendship is Optimal](http://www.fimfiction.net/story/62074/friendship-is-optimal)
+### [Friendship is Optimal](http://www.fimfiction.net/story/62074/friendship-is-optimal)
+by Iceman
 
-by: Iceman
-
-A Transhumanist My Little Ponies fanfiction in a similar, but happier vein to Three Worlds Collide.
-Instead of empathetic aliens making human super happy, Princes Celeste will to fulfill your values, through friendship and ponies.
+A transhumanist *My Little Ponies* fanfiction in a similar, but happier vein to *Three Worlds Collide*.
+Instead of empathetic aliens making human super happy, Princess Celeste will fulfill your values &mdash; through friendship and ponies.

@@ -18,7 +18,7 @@ Glass boxes with microscope cover slips.
 Little mice out of pine nuts, date pits, and silver wire.
 ![Desk with mice it](/images/mouse-desk.jpeg)
 
-## Brass Frame Animals
+## Brass frame animals
 
 ### Mouse
 The proportions didn't turn out quite as I had expected.
@@ -29,12 +29,12 @@ The proportions didn't turn out quite as I had expected.
 ![Brass cat](/images/brass-cat1.jpeg)
 ![Brass cat](/images/brass-cat2.jpeg)
 
-## Wooden Cat
-Chery wood cat.
+## Wooden cat
+Cherry wood cat.
 ![Wooden Cat](/images/wood-cat.jpeg)
 
-## Enameled Frog
-Brass frog with enameled paint. The eyes are the base of LEDs.
+## Enameled frog
+Brass frog with enamel paint. The eyes are the base of LEDs.
 ![Enameled Frog](/images/frog.jpeg)
 
 ## Books

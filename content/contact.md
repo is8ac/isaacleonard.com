@@ -6,7 +6,7 @@ type = "page"
 tags = ["Contact","PGP","Email","Gmail"]
 +++
 
-Preferd Email address: [isaac@isaacleonard.com](mailto:isaac@isaacleonard.com).
+Referred email address: [isaac@isaacleonard.com](mailto:isaac@isaacleonard.com).
 You can share Google drive files with this address.
 
 For OneDrive use: [isaacl@live.com](mailto:isaacl@live.com).
@@ -15,11 +15,11 @@ For OneDrive use: [isaacl@live.com](mailto:isaacl@live.com).
 
 [Github](https://github.com/is8ac)
 
-I do not use Facebook, Twitter, or others not mentioned here.
+I do not use Facebook, Twitter, or others social media mentioned here.
 
 ## PGP
 My PGP pub key is [here](/pgp.asc).
-This key is on all three of my main devises.
-This sacrificing some security for convenience.
+This key is on all three of my main devices.
+This sacrifices some security for convenience.
 
 Fingerprint: `3F1D 1C0E 531A D606 177B 7C44 613A CDA8 1740 479A`
